@@ -1,0 +1,18 @@
+﻿event;type;type_name;recommended;recommended_name;interchangeable_nr
+eerste consult;1;diagnose;yes;recommended;0
+cystoscopie;1;diagnose;no;optional;1
+proctoscopie;1;diagnose;no;optional;2
+MRI buik;1;diagnose;no;optional;3
+CT-scan buik;1;diagnose;no;optional;3
+hyperthermie;2;behandeling;no;optional;4
+chemotherapie;2;behandeling;no;optional;5
+laboratoriumonderzoek;1;diagnose;yes;recommended;6
+rontgenonderzoek thorax;1;diagnose;yes;recommended;7
+cytologisch onderzoek;1;diagnose;yes;recommended;8
+histologisch onderzoek;1;diagnose;yes;recommended;9
+echo nieren - urinewegen;1;diagnose;yes;recommended;10
+CT-scan nieren - urinewegen;1;diagnose;yes;recommended;10
+operatieve verwijdering uterus;2;behandeling;yes;recommended;11
+operatieve verwijding lymfeklieren;2;behandeling;yes;recommended;11
+operatieve verwijdering cervix;2;behandeling;yes;recommended;11
+radiotherapie;2;behandeling;yes;recommended;11

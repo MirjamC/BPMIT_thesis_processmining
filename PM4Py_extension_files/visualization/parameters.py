@@ -16,7 +16,7 @@
 '''
 from enum import Enum
 
-
+## Added new parameters   
 class Parameters(Enum):
     FORMAT = "format"   
     RULES = "rules"

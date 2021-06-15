@@ -1,0 +1,396 @@
+Activity code;Producer code;new:event:concept:name
+10107;SGNA;administratief
+410100;SGNA;eerste consult
+419100;SGNA;administratief
+415100;SGNA;telefonisch consult
+370000;CRLA;laboratoriumonderzoek
+372439;SLVE;laboratoriumverrichtingen
+372440A;SLVE;laboratoriumverrichtingen
+378431;SLVE;laboratoriumverrichtingen
+378431B;SLVE;laboratoriumverrichtingen
+379999;CRLA;laboratoriumverrichtingen
+411100;SGNA;vervolgconsult poliklinisch
+355427;LVPT;cytologisch onderzoek
+372442A;SLVE;laboratoriumverrichtingen
+410100;SGSX;eerste consult
+411100;SGSX;vervolgconsult poliklinisch
+339486E;SGSX;echo genitalia
+410500;SGVF;eerste consult
+386002;SRA1;rontgenonderzoek thorax
+370401;CHE2;laboratoriumverrichtingen
+370401C;CHE2;laboratoriumverrichtingen
+370403;CHE2;laboratoriumverrichtingen
+370407.0;HAEM;laboratoriumverrichtingen
+370419;CHE2;laboratoriumverrichtingen
+370423;CHE2;laboratoriumverrichtingen
+370442;CHE2;laboratoriumverrichtingen
+370443;CHE2;laboratoriumverrichtingen
+370488E;CHE2;laboratoriumverrichtingen
+370488G;CHE2;laboratoriumverrichtingen
+370488J;CHE2;laboratoriumverrichtingen
+370712B;HAEM;laboratoriumverrichtingen
+370715A;HAEM;laboratoriumverrichtingen
+372417;CHE2;laboratoriumverrichtingen
+378453A;CHE2;laboratoriumverrichtingen
+387090;SRA6;MRI buik
+415100;SGSX;telefonisch consult
+370000;CRPO;laboratoriumonderzoek
+370402;CHE2;laboratoriumverrichtingen
+370701;HAEM;laboratoriumverrichtingen
+370711;HAEM;laboratoriumverrichtingen
+376480A;LAKB;laboratoriumverrichtingen
+377498A;CHE2;laboratoriumverrichtingen
+387070A;SRA4;echo buik
+370604;BLOB;laboratoriumverrichtingen
+370606;BLOB;laboratoriumverrichtingen
+376400.0;CHE1;laboratoriumverrichtingen
+378607;BLOB;laboratoriumverrichtingen
+378619A;CHE1;laboratoriumverrichtingen
+387042A;SRA6;CT-scan buik
+40014;H5ZU;ligdagen
+375003A;BLOB;laboratoriumverrichtingen
+375004;BLOB;laboratoriumverrichtingen
+410500;SRTH;eerste consult
+610001;H5ZU;Klinische opname
+613000;H5ZU;administratief
+614400;H5ZU;administratief
+306231E;NGIV;scintigrafie maag
+306333C;NGIV;scintigrafie darm
+337092B;OKU1;operatieve verwijdering tuba uterina
+337105;OKU1;operatieve verwijdering uterus
+355401;LVPT;cytologisch onderzoek
+356133;LVPT;histologisch onderzoek
+370000;CRLE;laboratoriumonderzoek
+370402S;CRLE;laboratoriumverrichtingen
+370407C;CRLE;laboratoriumverrichtingen
+370424;CRLE;laboratoriumverrichtingen
+370426S;CRLE;laboratoriumverrichtingen
+370440;CRLE;laboratoriumverrichtingen
+370442S;CRLE;laboratoriumverrichtingen
+370443S;CRLE;laboratoriumverrichtingen
+370701S;CRLE;laboratoriumverrichtingen
+372414;CRLE;laboratoriumverrichtingen
+375075;BLOB;laboratoriumverrichtingen
+376482S;CRLE;laboratoriumverrichtingen
+378458;CRLE;laboratoriumverrichtingen
+370000;LBAC;laboratoriumonderzoek
+370111S;URIN;laboratoriumverrichtingen
+378149;URIN;laboratoriumverrichtingen
+370701S;HAEM;laboratoriumverrichtingen
+709999;BOXD;dieet nno
+370111;URIN;laboratoriumverrichtingen
+389370L;DRAD;echo bovenbeen
+389370R;DRAD;echo bovenbeen
+378216A;LBAC;laboratoriumverrichtingen
+382505;DRAD;rontgenonderzoek totale gebitsstatus
+382540;DRAD;rontgenonderzoek totale gebitsstatus
+339486E;H5ZU;echo genitalia
+411100;SGEH;vervolgconsult poliklinisch
+388170;SRA4;echo nieren - urinewegen
+378149;CRPO;laboratoriumverrichtingen
+376400.0;CHE2;laboratoriumverrichtingen
+378619A;CHE2;laboratoriumverrichtingen
+387042A;SRAS;CT-scan buik
+336990K;OKU1;operatieve verwijdering ovarium
+339488A;H1NO;echo blaas
+330001B;CHFO;elektrocardiografie
+339160;OKU1;cystoscopie
+339988E;OKU1;vagina  - toucher onder anesthesie
+356132;LVPT;histologisch onderzoek
+337105.0;OKU1;operatieve verwijdering uterus
+370504A;LBAC;laboratoriumverrichtingen
+370505A;LBAC;laboratoriumverrichtingen
+370711S;HAEM;laboratoriumverrichtingen
+370715S;HAEM;laboratoriumverrichtingen
+375138A;LBAC;laboratoriumverrichtingen
+377121S;HAEM;laboratoriumverrichtingen
+388112;SRA2;rontgenonderzoek nier
+370804S;CRPO;laboratoriumverrichtingen
+350503;LVPT;immunopathologisch onderzoek
+355111;LVPT;coupe ter inzage
+356134;LVPT;histologisch onderzoek
+386902;SRA4;rontgenonderzoek thorax
+386970;SRA4;echo borst
+339486E;H3ZU;echo genitalia
+370501.0;LBAC;laboratoriumverrichtingen
+378452;CHE2;laboratoriumverrichtingen
+388170;DRAD;echo nieren - urinewegen
+370111;CRPO;laboratoriumverrichtingen
+339171A;SGKO;scopie vagina
+410100;SGAL;eerste consult
+419100;SGAL;administratief
+415100;SGAL;telefonisch consult
+355399;LVPT;cytologisch onderzoek
+410500;SGAL;eerste consult
+337220;OKU1;operatieve verwijdering cervix
+339171A;OKU1;scopie vagina
+370402S;CITC;laboratoriumverrichtingen
+370442S;CITC;laboratoriumverrichtingen
+370443S;CITC;laboratoriumverrichtingen
+370701S;CITC;laboratoriumverrichtingen
+378458;CITC;laboratoriumverrichtingen
+372441;SLVE;laboratoriumverrichtingen
+376406;SLVE;laboratoriumverrichtingen
+359999;LVPT;histologisch onderzoek
+370402;CRLE;laboratoriumverrichtingen
+370407.0;CRLE;laboratoriumverrichtingen
+370442;CRLE;laboratoriumverrichtingen
+370443;CRLE;laboratoriumverrichtingen
+376482C;CRLE;laboratoriumverrichtingen
+377498A;CRLE;laboratoriumverrichtingen
+372439;SLV1;laboratoriumverrichtingen
+372440A;SLV1;laboratoriumverrichtingen
+355426;LVPT;cytologisch onderzoek
+375630;ECLB;laboratoriumverrichtingen
+410100;SRTH;eerste consult
+419100;SRTH;administratief
+411100;SIOG;vervolgconsult poliklinisch
+419100;SIOG;administratief
+370000;SLAN;laboratoriumonderzoek
+370481B;SLAN;laboratoriumverrichtingen
+370482;SLAN;laboratoriumverrichtingen
+370741;SLAN;laboratoriumverrichtingen
+378425;SLAN;laboratoriumverrichtingen
+370737C;STOL;laboratoriumverrichtingen
+370743Q;STOL;laboratoriumverrichtingen
+375421B;ECLB;laboratoriumverrichtingen
+375421C;ECLB;laboratoriumverrichtingen
+375423;ECLB;laboratoriumverrichtingen
+375517;STOL;laboratoriumverrichtingen
+375552A;STOL;laboratoriumverrichtingen
+375552C;STOL;laboratoriumverrichtingen
+375553.0;STOL;laboratoriumverrichtingen
+375581J;STOL;laboratoriumverrichtingen
+375581K;STOL;laboratoriumverrichtingen
+378717A;CHE1;laboratoriumverrichtingen
+378718;CHE1;laboratoriumverrichtingen
+378720;STOL;laboratoriumverrichtingen
+378729;HAEM;laboratoriumverrichtingen
+381342;SRA6;CT-scan hersenen
+390520;SRA5;teletherapie
+415100;SRTH;telefonisch consult
+390003;RATH;teletherapie
+710170;BLOB;laboratoriumverrichtingen
+40014;F5NO;ligdagen
+613000;F5NO;administratief
+614400;F5NO;administratief
+339099B;OKU1;anesthesie - bij behandeling met radium
+390183;RATH;brachytherapie
+378731;HAEM;laboratoriumverrichtingen
+339956;H1NO;infuus  - inbrengen
+380000;DRAD;administratief
+610001;F5NO;klinische opname
+387070;DRAD;echo buik
+415100;SIOG;telefonisch consult
+350507;LVPT;cytologisch onderzoek
+355409;LVPT;cytologisch onderzoek
+383333;SRA5;onderzoek van elders niet beoordeeld
+380077;SRA4;punctie
+384270L;SRA4;echo schouder
+390001;RATH;teletherapie
+390550;RATH;teletherapie
+339959;F5NS;infuus - bloed
+370488H;CHE2;laboratoriumverrichtingen
+378403;CHE2;laboratoriumverrichtingen
+378468P;CHE2;laboratoriumverrichtingen
+379000A;HAEM;laboratoriumverrichtingen
+411100;SRTH;vervolgconsult poliklinisch
+386042;SRA6;CT-scan thorax
+411100;SGAL;vervolgconsult poliklinisch
+330001B;H1NO;elektrocardiografie
+380000;SRA6;administratief
+337124L;OKU1;operatieve verwijdering uterus
+387947;SRA6;CT-gel. als ass. bij punctie - biopsie
+40016;D0DC;dagverpleging
+337180;DAGC;cytologisch onderzoek
+339160;DAGC;cystoscopie
+339988E;DAGC;vagina  - toucher onder anesthesie
+619600;D0DC;dagverpleging
+410100;SIOG;eerste consult
+336930A;OKU1;operatieve verwijdering ovarium
+613000;H1NO;administratief
+370415;CHE2;laboratoriumverrichtingen
+378858;CHE2;laboratoriumverrichtingen
+370000;LVIR;laboratoriumonderzoek
+371118;LVIR;laboratoriumverrichtingen
+377832B;LVIR;laboratoriumverrichtingen
+378640U;LVIR;laboratoriumverrichtingen
+413461;SRTH;interc.consult klinisch 
+640102;KLFY;unknown
+336281;OKU1;cystoscopie
+370000;BLOB;laboratoriumonderzoek
+376467E;STOL;laboratoriumverrichtingen
+385442A;DRAD;CT-scan pulmonalis
+333698A;H1NO;c.v.d. catheter
+381390;SRA6;MRI hersenen
+355438;LVPT;cytologisch onderzoek
+370476C;SLAN;laboratoriumverrichtingen
+370476J;SLAN;laboratoriumverrichtingen
+370481B;HAEM;laboratoriumverrichtingen
+377482B;SLAN;laboratoriumverrichtingen
+378444.0;SLAN;laboratoriumverrichtingen
+330001B;PLAB;elektrocardiografie
+390184;RATH;brachytherapie
+40016;H5ZU;dagverpleging
+619600;H5ZU;dagverpleging
+335584;OKU1;scopie buik
+339832C;H1NO;longfunctie
+389102;DRAD;rontgenonderzoek bekken
+386002;SRAE;rontgenonderzoek thorax
+20189;H1NO;administratief
+355105;LVPT;vriescoupe
+370424;CITC;laboratoriumverrichtingen
+372414;CITC;laboratoriumverrichtingen
+385442;DRAD;CT-scan pulmonalis
+377847A;CHE2;laboratoriumverrichtingen
+20113;H5ZU;administratief
+40016;F5NO;dagverpleging
+619600;F5NO;dagverpleging
+612000;H5ZU;administratief
+339161;OKU1;cystoscopie
+339956;ANES;infuus - inbrengen
+612000;F5NO;administratief
+339090G;H1NO;anesthesie - epiduraal met bloedpatch
+387001;SRA1;rontgenonderzoek buik
+330001B;PCLG;elektrocardiografie
+387070;SRA4;echo buik
+337105R;OKU1;operatieve verwijdering uterus
+370402;CITC;laboratoriumverrichtingen
+370407C;CITC;laboratoriumverrichtingen
+370407.0;CITC;laboratoriumverrichtingen
+370420;CITC;laboratoriumverrichtingen
+370440;CITC;laboratoriumverrichtingen
+370442;CITC;laboratoriumverrichtingen
+370443;CITC;laboratoriumverrichtingen
+614400;H1NO;administratief
+377840;CHE2;laboratoriumverrichtingen
+309152P;NGIV;CT-scan totale lichaam
+380043;NGIV;CT-scan totale lichaam
+335512C;OKU1;proeflaparotomie buik
+370437;CHE2;laboratoriumverrichtingen
+370465Q;CHE2;laboratoriumverrichtingen
+370466C;CHE2;laboratoriumverrichtingen
+372454A;CHE2;laboratoriumverrichtingen
+378808;CHE2;laboratoriumverrichtingen
+410500;SFAU;eerste consult
+375138A;LVIR;laboratoriumverrichtingen
+375140;LVIR;laboratoriumverrichtingen
+377478;LVIR;laboratoriumverrichtingen
+377479A;LVIR;laboratoriumverrichtingen
+378644;LRET;laboratoriumverrichtingen
+375143A;LVIR;laboratoriumverrichtingen
+375143B;LVIR;laboratoriumverrichtingen
+355201;LVPT;cytologisch onderzoek
+339486E;SGNA;echo genitalia
+390520;RATH;teletherapie
+370421;CHE2;laboratoriumverrichtingen
+304022B;NGIV;scintigrafie totale lichaam
+370420;CHE2;laboratoriumverrichtingen
+389101;SRA1;rontgenonderzoek bekken
+389302L;SRA1;rontgenonderzoek bovenbeen
+389502L;SRA1;rontgenonderzoek onderbeen
+370419S;CHE2;laboratoriumverrichtingen
+370420S;CHE2;laboratoriumverrichtingen
+370421S;CHE2;laboratoriumverrichtingen
+370423T;CHE2;laboratoriumverrichtingen
+370426S;CHE2;laboratoriumverrichtingen
+370442S;CHE2;laboratoriumverrichtingen
+370443S;CHE2;laboratoriumverrichtingen
+370701S;CITH;laboratoriumverrichtingen
+370715S;CITH;laboratoriumverrichtingen
+377121S;CITH;laboratoriumverrichtingen
+378452S;CHE2;laboratoriumverrichtingen
+378453S;CHE2;laboratoriumverrichtingen
+378858S;CHE2;laboratoriumverrichtingen
+388890;SRA6;MRI bijnier
+389190;SRA6;MRI bekken
+339186;OKU1;hysteroscopie
+10113;SIOG;administratief
+370401S;CHE2;laboratoriumverrichtingen
+370488S;CHE2;laboratoriumverrichtingen
+370488T;CHE2;laboratoriumverrichtingen
+370489S;CHE2;laboratoriumverrichtingen
+370701;CRPO;laboratoriumverrichtingen
+370701S;CRPO;laboratoriumverrichtingen
+370715S;CRPO;laboratoriumverrichtingen
+372417S;CHE2;laboratoriumverrichtingen
+377121S;CRPO;laboratoriumverrichtingen
+10207;SGNA;administratief
+388070A;SRA4;echo buik
+10213;SIOG;administratief
+370402S;CHE2;laboratoriumverrichtingen
+370403S;CHE2;laboratoriumverrichtingen
+10107;SGAL;administratief
+390004;RATH;teletherapie
+20100;H5ZU;administratief
+390002;RATH;teletherapie
+337101;OKU1;operatieve verwijdering uterus
+372443;SLVE;laboratoriumverrichtingen
+378546;LBAC;laboratoriumverrichtingen
+40016;PGYN;dagverpleging
+619600;PGYN;dagverpleging
+337190C;OKU1;curettage
+339090B;H1NO;analgesie - epiduraal door anesthesist
+339486E;SGEC;echo genitalia
+370480A;CHE2;laboratoriumverrichtingen
+303134E;NGIV;hart - functie gated bloodpool
+370701;CITH;laboratoriumverrichtingen
+370707S;STOL;laboratoriumverrichtingen
+370737S;STOL;laboratoriumverrichtingen
+370737Z;STOL;laboratoriumverrichtingen
+339482A;SGVE;echo ivm zwangerschap
+386041;SRA6;CT-scan thorax
+355499;LVPT;cytologisch onderzoek
+335573;OKU1;operatieve verwijdering in buik
+413489;H1NO;interc.consult klinisch 
+337190C;DAGC;curettage
+339186;DAGC;hysteroscopie
+10207;SGAL;administratief
+413409;H6NO;interc.consult klinisch 
+386001Z;SRA1;rontgenonderzoek thorax
+375518;STOL;laboratoriumverrichtingen
+376454A;CHE2;laboratoriumverrichtingen
+339943B;H6ZN;bronchitus toilet
+381341;DRAD;CT-scan hersenen
+381342;DRAD;CT-scan hersenen
+686405;H5ZU;cytostatica
+387002;SRA1;rontgenonderzoek buik
+387001;DRAD;rontgenonderzoek buik
+336950B;OKU1;operatieve verwijdering adnex
+389073.0;SRA4;duplexscan been
+333727;OKU1;stageringslymfadenectomie
+386001Z;DRAD;rontgenonderzoek thorax
+335512N;OKU1;stageringsoperatie omentum
+375005;BLOB;laboratoriumverrichtingen
+378609K;BLOB;laboratoriumverrichtingen
+378609S;BLOB;laboratoriumverrichtingen
+378619E;CHE1;laboratoriumverrichtingen
+379414;CHE1;laboratoriumverrichtingen
+389101A;SRA1;rontgenonderzoek bekken
+355435;LVPT;cytologisch onderzoek
+387870;SRA4;echo pancreas en milt
+389190;SRAS;MRI bekken
+370828A;SLVE;laboratoriumverrichtingen
+333720;OKU1;operatieve verwijdering lymfeklieren
+337101B;OKU1;operatieve verwijdering uterus
+389072C;SRA4;echo-doppler benen
+389072.0;SRA4;echo-doppler benen
+339486E;SGAL;echo genitalia
+410500;SAPA;eerste consult
+370000;LAKB;laboratoriumonderzoek
+386041;SRAE;CT-scan thorax
+333698;H1NO;c.v.d. catheter
+386001;SRA1;rontgenonderzoek thorax
+387042A;DRAD;CT-scan buik
+413403;G6ZU;interc.consult klinisch 
+388311A;SRA2;rongten blaas
+380000;SRA4;administratief
+40014;H4ZU;ligdagen
+610001;H4ZU;klinische opname
+613000;H4ZU;administratief
+40016;F6DV;dagverpleging
+619600;F6DV;dagverpleging
+387090;SRAS;MRI buik
+382970;SRA4;echo schildklier
+376425A;CHE2;laboratoriumverrichtingen
+386002;SRAS;rontgenonderzoek thorax
